@@ -6,6 +6,11 @@ public class Main {
 		System.out.println("hello");
 		int total = AddNumber.add(2, 3);
 		System.out.println(total);
+		
+		System.out.println("---------------");
+		Jian jian1 = new Jian();
+		int jian2 = jian1.jian(9, 7);
+		System.out.println(jian2);
 	}
 
 }
