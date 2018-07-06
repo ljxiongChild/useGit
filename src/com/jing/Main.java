@@ -11,6 +11,8 @@ public class Main {
 		Jian jian1 = new Jian();
 		int jian2 = jian1.jian(9, 7);
 		System.out.println(jian2);
+		System.out.println("---------------");
+		System.out.println(Cheng.cheng(2, 3));
 	}
 
 }
